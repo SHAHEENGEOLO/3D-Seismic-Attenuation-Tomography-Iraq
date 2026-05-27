@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript after publication."
+title: "3D Seismic Attenuation Tomography of Iraq"
+authors:
+  - family-names: "Ahmed"
+    given-names: "Shaheen Mohammed Saleh"
+affiliation: "Department of Applied Geology, Kirkuk University, Iraq"
+repository-code: "https://github.com/SHAHEENGEOLO/3D-Seismic-Attenuation-Tomography-Iraq"
+keywords:
+  - seismic attenuation
+  - tomography
+  - Kirkuk
+  - Iraq
+  - intrinsic attenuation
+  - scattering attenuation
+  - NetCDF
+  - GIS
+  - Python
+license: "MIT"

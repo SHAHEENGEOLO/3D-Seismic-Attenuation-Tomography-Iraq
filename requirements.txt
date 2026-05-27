@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+matplotlib
+xarray
+netCDF4
+geopandas
+shapely
+pyproj
+rasterio
+scikit-image
+tqdm
+obspy
+torch
